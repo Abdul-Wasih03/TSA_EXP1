@@ -3,7 +3,7 @@
 
 ## AIM:
 
-To Develop a python program to Plot a time series data (population/ market price of a commodity /temperature).
+To develop a Python program that plots the time series data of Tesla's market price.
 
 
 ## ALGORITHM:
