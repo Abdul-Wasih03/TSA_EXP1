@@ -1,5 +1,5 @@
 # Ex.No: 01A PLOT A TIME SERIES DATA
-###  Date: 21/08/2024
+###  Date: 
 
 ## AIM:
 
