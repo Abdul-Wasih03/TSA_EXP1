@@ -1,5 +1,9 @@
+### Developed by: Syed Abdul Wasih H
+### Register Number: 212221240057
+### Date:
+
 # Ex.No: 01A PLOT A TIME SERIES DATA
-###  Date: 
+
 
 ## AIM:
 
