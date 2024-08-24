@@ -12,11 +12,12 @@ To develop a Python program that plots the time series data of Tesla's market pr
 
 ## ALGORITHM:
 
-1. Import the required packages like pandas and matplot
-2. Read the dataset using the pandas
-3. Calculate the mean for the respective column.
-4. Plot the data according to need and can be altered monthly, or yearly.
-5. Display the graph.
+1. Import the required packages like pandas and matplotlib.
+2. Read the dataset using pandas.
+3. Convert the 'date' column to datetime format.
+4. Plot the 'close' price against the 'date' column.
+5. Label the axes and add a title to the plot.
+6. Display the graph using plt.show().
 
    
 ## PROGRAM:
