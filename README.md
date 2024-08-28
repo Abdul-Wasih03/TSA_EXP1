@@ -4,11 +4,9 @@
 
 # Ex.No: 01A PLOT A TIME SERIES DATA
 
-
 ## AIM:
 
 To develop a Python program that plots the time series data of Tesla's market price.
-
 
 ## ALGORITHM:
 
@@ -36,8 +34,6 @@ plt.legend()
 plt.show(block=False)
 plt.show()
 ```
-
-
 ## OUTPUT:
 
 ![exp1 img](https://github.com/user-attachments/assets/c69ca8fb-0f18-452f-9954-f72621303795)
@@ -45,4 +41,4 @@ plt.show()
 
 ## RESULT:
 
-Thus we have created the python code for plotting the time series of given data.
+Thus to develop a python code that plots the time series data of Tesla's market price is successful.
